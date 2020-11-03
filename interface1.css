@@ -17,12 +17,11 @@
     font-size: 20px;
 
 }
-.button-wrapper{
-}
+
 
 
 h3{
-    font-family:monospace ;
+    font-family:'archivo',sans-serif;
     color:rgb(127, 127, 127);
     font-size: 18px;
 }
@@ -30,19 +29,21 @@ h3{
 
 h1{
     color: rgb(148, 52, 116);
-    font-size: 60px;
-    font-family: ;
+    font-size: 55px;
+    font-family: 'Archivo', sans-serif;
+    font-family: 'Noto Serif', serif;
+    font-weight: bolder;
 
 }
 
 p{
     color:rgb(119, 119, 119);
     font-size: 25px;
-    font-family: ;
-    
+   
 }
 
 span{
     color: black;
     font-weight:bolder;
+    height: 250px;
 }
