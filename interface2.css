@@ -1,23 +1,39 @@
 .wrapper{
-        background-color:sandybrown;
-        width: 575px;
-        height: 450px;
-        padding:20px;
-        padding-top: 3px;
-        margin: 10px auto;
+    background-color:white;
+    width: 675px;
+    height: 600px;
+    padding:20px;
+    padding-top: 3px;
+    margin:10px auto;
 }
 
 .btn {
-    background-color:rgb(58, 58, 58);
+    background-color:rgb(40, 41, 52);
     border-radius: 0px; 
     border:none;
+    padding: 28px 215px;
+    font-size: 25px;
     color: white;
-    padding: 15px 215px;
-    font-size: 15px;
 
 }
+
+
 
 h1{
-    font-size: 70px;
+    
+    font-family:'Playfair Display', serif;
+    font-size: 73px;
+    color:rgb(40, 41, 52);
+    font-weight:500; /*takes the boldness away*/
 }
 
+h3{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 24px;
+    color:rgb(40, 41, 52);
+}
+p{
+    font-family: 'Carme', sans-serif;
+    font-size: 27px;
+    color:rgb(40, 41, 52);
+}
