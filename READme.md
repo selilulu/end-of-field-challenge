@@ -1,5 +1,8 @@
 ## First Exam at BeCode
 
+[a relative link](interface1.html)
+[a relative link](interface2.html)
+
 # First interface exercise 14 
 * I have applied a div class to be able to have a general box.
 * To centralize the page it is essential to give the value auto to margin.
